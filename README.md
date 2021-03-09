@@ -1,4 +1,4 @@
-# Websitedevelop
-Coursera test repository 
+# Escola das Emoções <blue>
+Aonde você entende como ser positivo. 
 
-# Hello I am experimenting here with this new languague. I is interesting so ~far~  
+# Nossa filosofia é 
